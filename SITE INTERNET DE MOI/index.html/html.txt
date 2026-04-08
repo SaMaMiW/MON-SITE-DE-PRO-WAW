@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head>
+    <title>SITE INTERNET DE MOI</title>
+</head>
+<body>
+
+    <h1>ULTRA MEGA WAW</h1>
+    <p>MON PREMIER SITE DE PRO</p>
+
+</body>
+</html>
